@@ -1,0 +1,27 @@
+{
+  "name": "bubblesort",
+  "version": "1.0.0",
+  "description": "There are many algorithms that deal with sorting collections of data. We will start off by implementing a Bubble Sort algorithm on a one-dimensional Array.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon .",
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimi65/bubbleSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimi65/bubbleSort/issues"
+  },
+  "homepage": "https://github.com/danimi65/bubbleSort#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.14.1",
+    "mocha": "^3.2.0",
+    "supertest": "^3.0.0"
+  }
+ 
+}
